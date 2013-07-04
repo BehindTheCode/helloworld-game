@@ -1,6 +1,8 @@
 Hello World - The Game
 =====================
 
+Migrated to Sparrow 2.0 - [BehindTheCode] (https://github.com/BehindTheCode/HelloWorld-Sparrow2)
+
 ![Screenshots](https://raw.github.com/walm/helloworld-game/master/screenshots.jpg)
 
 Save the World from all Hello'ers, fire rockets at their space ships.
